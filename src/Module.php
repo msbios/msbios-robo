@@ -13,7 +13,6 @@ use Zend\ModuleManager\Feature\AutoloaderProviderInterface;
 /**
  * Class Module
  * @package MSBios\Robo
- * @see https://robo.li
  */
 class Module implements
     ModuleInterface,
